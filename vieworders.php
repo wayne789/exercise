@@ -1,5 +1,5 @@
 <?php
-	$DOCUMENT_ROOT = $_SERVER['DOCUMENT_ROOT']
+	$DOCUMENT_ROOT = $_SERVER['DOCUMENT_ROOT'];
 ?>
 <html>
 <head>
